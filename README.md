@@ -65,14 +65,6 @@
 </details>
 
 <details open>
-<summary>GitHub Stats & Top Repositories</summary>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erandajayasinghe&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=erandajayasinghe&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Streak stats"/>
-</p>
 
 <h3 align="center">Top Repositories</h3>
 <p align="center">

@@ -65,7 +65,7 @@
 </details>
 
 <details open>
-<summary>GitHub Stats</summary>
+<summary>GitHub Stats & Top Repositories</summary>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=erandajayasinghe&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
 </p>
@@ -73,7 +73,21 @@
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=erandajayasinghe&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Streak stats"/>
 </p>
+
+<h3 align="center">Top Repositories</h3>
+<p align="center">
+    <a href="https://github.com/Eranda724/Student-Attendence-Management-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Student-Attendence-Management-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/Eranda724/Plant-Disease-Detection-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Plant-Disease-Detection-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/Eranda724/Developing-Auto-Correct-Sinhala">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Developing-Auto-Correct-Sinhala&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
 </details>
+
 
 <div align="center">
 <a href="#">

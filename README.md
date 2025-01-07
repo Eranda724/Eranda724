@@ -33,12 +33,9 @@
 <details open>
 <summary>About Me</summary>
 <ul>
-<li>🔭 Founder of NexusStream Project AI</li>
-<li>🌱 Currently focused on AI Development & Automation</li>
+<li>🌱 Currently focused on Gen AI and Machine Learning Development & Automation</li>
 <li>👨‍💻 All projects available at <a href="https://github.com/erandajayasinghe">GitHub</a></li>
-<li>🏠 Visit my website at <a href="https://erandajayasinghe.me">erandajayasinghe.me</a></li>
-<li>📫 Contact me at <strong>eranda@domain.com</strong></li>
-<li>⚡ Fun fact: I'm one of the crazy ones who thinks they can change the world</li>
+<li>📫 Contact me at <strong>erandajayasinghe724@gmail.com</strong></li>
 </ul>
 </details>
 
@@ -54,12 +51,14 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<h3 align="center">AI & Automation Tools</h3>
+<h3 align="center">Python & AI Tools</h3>
 <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
+
 </details>
 
 <details open>

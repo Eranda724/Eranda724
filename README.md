@@ -68,7 +68,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="Top Languages">
 </p>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=8">
+</p>
 
 
 <h3 align="center">Top Repositories</h3>

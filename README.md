@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
 <h3 align="center">AI and machine learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eranda724&label=Profile%20views&color=0e75b6&style=flat" alt="eranda724" /> </p>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>

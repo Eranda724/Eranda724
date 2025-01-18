@@ -64,7 +64,11 @@
 <details open>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000)
+### 📊 Languages Used
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="Top Languages">
+</p>
+
 
 
 <h3 align="center">Top Repositories</h3>

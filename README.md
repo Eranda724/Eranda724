@@ -63,6 +63,10 @@
 
 <details open>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000)
+
+
 <h3 align="center">Top Repositories</h3>
 <p align="center">
     <a href="https://github.com/Eranda724/Student-Attendence-Management-System">

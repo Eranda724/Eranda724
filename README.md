@@ -2,12 +2,10 @@
 ="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
 <h3 align="center">AI and machine learning Engineer</h3>
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
@@ -48,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=8">
 </p>
 
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 <h3 align="center">Top Repositories</h3>
 <p align="center">
     <a href="https://github.com/Eranda724/Student-Attendence-Management-System">
@@ -70,3 +68,5 @@
     <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
 </a>
 </div>
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">

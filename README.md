@@ -2,6 +2,8 @@
 ="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
 <h3 align="center">AI and machine learning Engineer</h3>
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>

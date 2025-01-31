@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src![ERANDA JAYASINGHE(1)](https://github.com/user-attachments/assets/36e3ab5f-e2e0-47f8-9589-7335ff3996f3)
 ="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
 <h3 align="center">AI and machine learning Engineer</h3>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>

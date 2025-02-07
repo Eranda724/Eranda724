@@ -45,16 +45,21 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=8">
 </p>
 
+# Your README Content
+
+(Add your existing README content here...)
+
+---
+
 <details open> 
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX-OFFICIAL&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX-OFFICIAL&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Eranda724&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="Eranda724 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eranda724&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX-OFFICIAL&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX-OFFICIAL&show_icons=true&theme=transparent"/>
-	    <img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api?username=Eranda724&show_icons=true&theme=transparent"/>
+	    <img alt="Eranda724's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eranda724&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
-
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 <h3 align="center">Top Repositories</h3>

@@ -48,9 +48,6 @@
 <details open> 
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Eranda724&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
     <img alt="Eranda724 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eranda724&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=transparent"/>
-	</div>
 </details>
 
 

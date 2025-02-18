@@ -42,7 +42,7 @@
 
 ### 📊 Languages Used
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=16">
 </p>
 
 <details open> 

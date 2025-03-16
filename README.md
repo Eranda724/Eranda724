@@ -80,7 +80,7 @@
 
 <h3 align="center">Top Repositories</h3>
 <p align="center">
-  <a href="https://github.com/Eranda724/Student-Attendance-Management-System">
+  <a href="https://github.com/Eranda724/Student-Attendence-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Student-Attendance-Management-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Student Attendance Management System"/>
   </a>
   <a href="https://github.com/Eranda724/Plant-Disease-Detection-System">

@@ -67,6 +67,9 @@
     <a href="https://github.com/Eranda724/Developing-Auto-Correct-Sinhala">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Developing-Auto-Correct-Sinhala&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
+    <a href="https://github.com/Eranda724/Real-Time-Video-Conferencing-Application-using-WebRTC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Developing-Auto-Correct-Sinhala&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
 </p>
 </details>
 

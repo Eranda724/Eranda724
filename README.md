@@ -8,8 +8,10 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&random=false&width=800&lines=Shaping+the+future+with+code,+one+intelligent+model+at+a+time." alt="Line 1"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FF4500&center=true&vCenter=true&random=false&width=800&lines=I'm+Eranda+Jayasinghe—an+AI+engineer+passionate+about+creating+smart,+scalable,+and+impactful+solutions." alt="Line 2"/>
 </p>
+
 </details>
 
 <details open>

@@ -1,35 +1,34 @@
-<h1 align="center">Hi <img src![ERANDA JAYASINGHE(1)](https://github.com/user-attachments/assets/36e3ab5f-e2e0-47f8-9589-7335ff3996f3)
-="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
-<h3 align="center">AI and machine learning Engineer</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Eranda Jayasinghe </h1>
+<h3 align="center">AI and Machine Learning Engineer</h3>
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
-</p>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-<details open>
-<summary>Developer Quote</summary>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&random=false&width=800&lines=Shaping+the+future+with+code,+one+intelligent+model+at+a+time." alt="Line 1"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FF4500&center=true&vCenter=true&random=false&width=800&lines=I'm+Eranda+Jayasinghe—an+AI+engineer+passionate+about+creating+smart,+scalable,+and+impactful+solutions." alt="Line 2"/>
+  <img src="https://komarev.com/ghpvc/?username=erandajayasinghe&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="400" height="95">
 </p>
 
+<details open>
+<summary>🧠 Developer Quote</summary>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+</p>
 </details>
 
 <details open>
-<summary>About Me</summary>
+<summary>👤 About Me</summary>
 <ul>
-<li>🌱 Currently focused on Gen AI and Machine Learning Development & Automation</li>
-<li>👨‍💻 All projects available at <a href="https://github.com/erandajayasinghe">GitHub</a></li>
-<li>📫 Contact me at <strong>erandajayasinghe724@gmail.com</strong></li>
+  <li>🌱 Currently focused on Generative AI and Machine Learning Development & Automation</li>
+  <li>👨‍💻 All projects available at <a href="https://github.com/erandajayasinghe">GitHub</a></li>
+  <li>📫 Contact me: <strong>erandajayasinghe724@gmail.com</strong></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eranda-jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eranda-jayasinghe" height="30" width="40" /></a>
-<a href="https://kaggle.com/erandajayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erandajayasinghe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/seranda570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seranda570" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/era076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="era076" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/eranda-jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/erandajayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/seranda570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/era076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
-
 </details>
 
 <details open>
@@ -42,46 +41,60 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eranda724&" alt="eranda724" /></p>
 
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eranda724&show_icons=true&locale=en" alt="Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eranda724&" alt="Streak" />
+</p>
 
 <details open>
-
-
-### 📊 Languages Used
+<summary>📊 Languages Used</summary>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=16">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda724&layout=compact&theme=dark&title_color=C2FFC7&text_color=ffffff&bg_color=000000&langs_count=16">
 </p>
-
-<details open> 
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Eranda724&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="Eranda724 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eranda724&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 </details>
 
+<details open>
+<summary><h3>📈 Statistics</h3> <img height="20" src="https://visitcount.itsvg.in/api?id=Eranda724&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+<p align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eranda724&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+</p>
+</details>
+
+</details>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-<h3 align="center">Top Repositories</h3>
+
+<h3 align="center">🏆 Top Repositories</h3>
 <p align="center">
-    <a href="https://github.com/Eranda724/Student-Attendence-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Student-Attendence-Management-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Eranda724/Plant-Disease-Detection-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Plant-Disease-Detection-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Eranda724/Developing-Auto-Correct-Sinhala">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Developing-Auto-Correct-Sinhala&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Eranda724/Real-Time-Video-Conferencing-Application-using-WebRTC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Real-Time-Video-Conferencing-Application-usingWebRTC&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-
-    </a>
+  <a href="https://github.com/Eranda724/Student-Attendence-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Student-Attendence-Management-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+  </a>
+  <a href="https://github.com/Eranda724/Plant-Disease-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Plant-Disease-Detection-System&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+  </a>
+  <a href="https://github.com/Eranda724/Developing-Auto-Correct-Sinhala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Developing-Auto-Correct-Sinhala&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+  </a>
+  <a href="https://github.com/Eranda724/Real-Time-Video-Conferencing-Application-using-WebRTC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eranda724&repo=Real-Time-Video-Conferencing-Application-usingWebRTC&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+  </a>
 </p>
-</details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eranda724" alt="eranda724" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=eranda724" alt="Trophy" />
+  </a>
+</p>
 
 <div align="center">
-<a href="#">
+  <a href="#">
     <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</a>
+  </a>
 </div>
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">

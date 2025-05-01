@@ -7,7 +7,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Shaping+the+future+with+code%2C+one+intelligent+model+at+a+time.;I%27m+Eranda+Jayasinghe%E2%80%94an+AI+engineer+passionate+about+creating+smart%2C+scalable%2C+and+impactful+solutions." alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Shaping+the+future+with+code%2C+one+intelligent+model+at+a+time.;I'm+Eranda+an+AI+engineer+passionate+about+creating+smart%2C+scalable%2C+and+impactful+solutions." alt="Developer Quote"/>
 </p>
 </details>
 
